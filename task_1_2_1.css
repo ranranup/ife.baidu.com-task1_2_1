@@ -104,8 +104,10 @@ form p label {
 form .reminder {
     margin-left: 200px;
     color: #7d9797;
+    font-size: 14px;
+    font-weight: normal;
 }
-form p label:after {
+form p:after {
     content: " ";
     height: 0;
     overflow: hidden;
